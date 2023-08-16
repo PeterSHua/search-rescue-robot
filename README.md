@@ -1,4 +1,4 @@
-# search-rescue-robot
+## search-rescue-robot
 The goal was to create a robot that could assist in disaster relief efforts by quickly and accurately navigating through disaster zones. To that end, the robot needed to be able to navigate a maze, retrieve an object, and find the shortest path back to the origin.
 
 [video](https://youtu.be/GNuyD7eQRL8)
